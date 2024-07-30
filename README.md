@@ -1,7 +1,6 @@
 **Login Feature Testing Project**
 
 - This project focuses on testing the login functionality, specifically addressing negative scenarios where invalid credentials are used. 
-
 - The tests validate that appropriate warning messages are displayed when incorrect login details are entered.
 
 **Key Features**
