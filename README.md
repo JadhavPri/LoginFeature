@@ -14,4 +14,4 @@
 **Setup**
 
 
-Clone the Repository: git clone <git@github.com:JadhavPri/LoginFeature.git>
+Clone the Repository: git clone git@github.com:JadhavPri/LoginFeature.git
