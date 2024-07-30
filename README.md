@@ -1,7 +1,8 @@
 **Login Feature Testing Project**
 
-This project focuses on testing the login functionality, specifically addressing negative scenarios where invalid credentials are used. 
-The tests validate that appropriate warning messages are displayed when incorrect login details are entered.
+- This project focuses on testing the login functionality, specifically addressing negative scenarios where invalid credentials are used. 
+
+- The tests validate that appropriate warning messages are displayed when incorrect login details are entered.
 
 **Key Features**
 - **Page Object Model**: Uses the Page Object Model (POM) pattern to create a clear structure for interacting with the login page.
